@@ -2,17 +2,11 @@
 
 # Yachi Gajjar
 
-### Computer Engineering Undergraduate · Building Intelligent Software
-
-<br/>
-
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+intelligent+software+systems;Exploring+AI+%2B+Full-Stack+Engineering;Designing+scalable+architectures;Currently+shipping+Nocturne" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Learning+By+Building;Turning+ideas+into+experiences;From+algorithms+to+applications;One+project+at+a+time" alt="Typing animation" />
 </a>
 
 </div>
-
-<br/>
 
 ---
 
@@ -20,12 +14,13 @@
 
 ## About
 
-I design and build software systems that sit at the intersection of intelligence and utility — tools that learn, adapt, and quietly make someone's workflow better.
+Hello! I'm Yachi, a Computer Engineering undergraduate driven by curiosity and a love for building things.
 
-My work spans three layers: interfaces people enjoy using, backends that stay reliable under pressure, and the AI components that make a system feel less like software and more like a collaborator. I'm currently deepening that stack with cloud infrastructure, distributed systems, and applied robotics.
+I enjoy creating applications that combine thoughtful design, reliable engineering, and intelligent features. Lately, I've been focusing on AI-powered applications, full-stack development, and cloud technologies while strengthening my understanding of software architecture and scalable systems.
 
-I care less about which framework is trending and more about whether the thing I built actually holds up — in production, under load, and six months after I've forgotten how it works.
+I'm someone who enjoys learning by building. Whether it's experimenting with a new framework, contributing to a project, or solving a challenging problem, I believe the best way to grow is through hands-on experience.
 
+My goal is simple: keep improving, keep creating, and build software that makes a real difference.
 <br/>
 
 ---
