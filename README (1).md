@@ -115,7 +115,7 @@ My goal is simple: keep improving, keep creating, and build software that makes 
 <tr>
 <td align="center" width="50%">
 
-<img src="https://github-stats-extended.vercel.app/api?username=itsyachiguys&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats — all-time commits"/>
+<img src="https://github-readme-stats.vercel.app/api?username=itsyachiguys&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" width="100%" alt="GitHub Stats"/>
 
 </td>
 <td align="center" width="50%">
