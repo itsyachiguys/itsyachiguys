@@ -1,11 +1,5 @@
 <div align="center">
 
-<!-- ================= HERO BANNER ================= -->
-
-<img src="https://placehold.co/1200x280/0d1117/58a6ff?text=Illustration+Placeholder" width="100%" alt="Illustration placeholder"/>
-
-<br/>
-
 # Yachi Gajjar
 
 ### Computer Engineering Undergraduate · Building Intelligent Software
@@ -31,111 +25,6 @@ I design and build software systems that sit at the intersection of intelligence
 My work spans three layers: interfaces people enjoy using, backends that stay reliable under pressure, and the AI components that make a system feel less like software and more like a collaborator. I'm currently deepening that stack with cloud infrastructure, distributed systems, and applied robotics.
 
 I care less about which framework is trending and more about whether the thing I built actually holds up — in production, under load, and six months after I've forgotten how it works.
-
-<br/>
-
----
-
-<br/>
-
-## Currently Building
-
-<table>
-<tr>
-<td width="50%">
-
-**🌙 Nocturne**
-Flagship project — details below.
-`Status: Active Development`
-
-</td>
-<td width="50%">
-
-**🎓 AI-Powered Educational Systems**
-Adaptive learning tools driven by ML models.
-`Status: In Progress`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**☁️ Cloud Infrastructure Projects**
-Scalable deployment pipelines and distributed services.
-`Status: Exploring`
-
-</td>
-<td width="50%">
-
-**🤖 Robotics Experiments**
-Applied engineering at the hardware/software boundary.
-`Status: Ongoing`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🌍 Open Source Contributions**
-Contributing to tools I rely on daily.
-`Status: Continuous`
-
-</td>
-<td width="50%">
-
-**🔮 Future AI Tooling**
-Early-stage concepts for developer-facing AI utilities.
-`Status: Research`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<br/>
-
-## Projects
-
-<table>
-<tr>
-<td width="25%" align="center">
-
-**🌙 Nocturne**
-`Flagship`
-<sub>Placeholder — one line on what it does</sub>
-<br/><br/>
-<a href="#">Repo</a> · <a href="#">Demo</a>
-
-</td>
-<td width="25%" align="center">
-
-**Project Two**
-<sub>Placeholder — one line on what it does</sub>
-<br/><br/>
-<a href="#">Repo</a> · <a href="#">Demo</a>
-
-</td>
-<td width="25%" align="center">
-
-**Project Three**
-<sub>Placeholder — one line on what it does</sub>
-<br/><br/>
-<a href="#">Repo</a> · <a href="#">Demo</a>
-
-</td>
-<td width="25%" align="center">
-
-**Project Four**
-<sub>Placeholder — one line on what it does</sub>
-<br/><br/>
-<a href="#">Repo</a> · <a href="#">Demo</a>
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -227,11 +116,7 @@ Early-stage concepts for developer-facing AI utilities.
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=itsyachiguys&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
-<img src="https://streak-stats.demolab.com?user=itsyachiguys&theme=github-dark-blue&hide_border=true" width="49%" alt="GitHub Streak"/>
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=itsyachiguys&layout=compact&theme=github_dark&hide_border=true" width="49%" alt="Top Languages"/>
-<img src="https://github-profile-trophy.vercel.app/?username=itsyachiguys&theme=algolia&no-frame=true&row=2&column=3" width="49%" alt="Trophies"/>
+<img src="https://github-stats-extended.vercel.app/api?username=itsyachiguys&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" width="60%" alt="GitHub Stats — all-time commits"/>
 
 <br/><br/>
 
@@ -241,27 +126,6 @@ Early-stage concepts for developer-facing AI utilities.
 
 <!-- Contribution Snake Animation — requires a GitHub Action to generate, see setup steps below -->
 <img src="https://raw.githubusercontent.com/itsyachiguys/itsyachiguys/output/github-contribution-grid-snake.svg" width="98%" alt="Contribution snake animation"/>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## Project Gallery
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%"><img src="https://placehold.co/240x160/161b22/58a6ff?text=Architecture" width="100%"/><br/><sub>System Architecture</sub></td>
-<td align="center" width="25%"><img src="https://placehold.co/240x160/161b22/58a6ff?text=Dashboard" width="100%"/><br/><sub>Dashboard UI</sub></td>
-<td align="center" width="25%"><img src="https://placehold.co/240x160/161b22/58a6ff?text=Mobile" width="100%"/><br/><sub>Mobile Interface</sub></td>
-<td align="center" width="25%"><img src="https://placehold.co/240x160/161b22/58a6ff?text=Demo" width="100%"/><br/><sub>Demo Animation</sub></td>
-</tr>
-</table>
 
 </div>
 
