@@ -116,16 +116,24 @@ I care less about which framework is trending and more about whether the thing I
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=itsyachiguys&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" width="60%" alt="GitHub Stats — all-time commits"/>
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-<br/><br/>
+<img src="https://github-stats-extended.vercel.app/api?username=itsyachiguys&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats — all-time commits"/>
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://streak-stats.demolab.com?user=itsyachiguys&theme=github-dark-blue&hide_border=true" width="100%" alt="GitHub Streak — total contributions since account creation"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsyachiguys&theme=github-dark&hide_border=true" width="98%" alt="Contribution Activity Graph"/>
-
-<br/><br/>
-
-<!-- Contribution Snake Animation — requires a GitHub Action to generate, see setup steps below -->
-<img src="https://raw.githubusercontent.com/itsyachiguys/itsyachiguys/output/github-contribution-grid-snake.svg" width="98%" alt="Contribution snake animation"/>
 
 </div>
 
