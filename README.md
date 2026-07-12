@@ -110,21 +110,24 @@ My goal is simple: keep improving, keep creating, and build software that makes 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=itsyachiguys&theme=github-dark-blue&hide_border=true" width="70%" alt="GitHub Streak"/>
+<img
+  src="https://streak-stats.demolab.com?user=itsyachiguys&theme=github-dark-blue&hide_border=true&cache_seconds=1800"
+  width="70%"
+  alt="GitHub Streak"
+/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsyachiguys&theme=github-dark&hide_border=true" width="98%" alt="Contribution Activity Graph"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=itsyachiguys&theme=github-dark&hide_border=true"
+  width="98%"
+  alt="Contribution Activity Graph"
+/>
 
 </div>
 
 <br/>
 
----
-
-<br/>
-
----
 
 <br/>
 
