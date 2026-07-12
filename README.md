@@ -145,25 +145,35 @@ I treat my repositories as open conversations, not finished statements.
 
 <div align="center">
 
+<div align="center">
+
 ## Connect
 
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117"/></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-58A6FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
-<a href="https://your-resume-link.com"><img src="https://img.shields.io/badge/Resume-58A6FF?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=0d1117"/></a>
-<a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-58A6FF?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://github.com/itsyachiguys" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/yachi-gajjar-857859333/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:your.email@example.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://discord.com/users/1123302145031163984">
+  <img src="https://skillicons.dev/icons?i=discord" height="45" alt="Discord"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/YachiGajjar2005">
+  <img src="https://cdn.simpleicons.org/x/58A6FF" height="42" alt="X"/>
+</a>
 
-<br/><br/>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=itsyachiguys&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=itsyachiguys&style=flat-square&color=58A6FF&label=PROFILE+VIEWS"/>
 
 </div>
-
-<br/>
-
----
-
-<br/>
 
 <div align="center">
 
