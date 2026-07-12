@@ -180,3 +180,8 @@ I treat my repositories as open conversations, not finished statements.
 <sub>Thanks for stopping by — if something here resonated, a star or a message goes a long way.</sub>
 
 </div>
+
+
+---
+
+
