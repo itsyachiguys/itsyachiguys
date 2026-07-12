@@ -26,10 +26,10 @@ My goal is simple: keep improving, keep creating, and build software that makes 
 ---
 
 <br/>
-## Technology Stack
-
 <table>
 <tr>
+  
+## Technology Stack
 <td valign="top" width="33%">
 
 **Languages**
