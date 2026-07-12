@@ -26,7 +26,6 @@ My goal is simple: keep improving, keep creating, and build software that makes 
 ---
 
 <br/>
-
 ## Technology Stack
 
 <table>
@@ -35,73 +34,73 @@ My goal is simple: keep improving, keep creating, and build software that makes 
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,c" />
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,cpp,c,js,ts,php,r" />
 
 </td>
 <td valign="top" width="33%">
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,bootstrap,tailwind,redux,jquery,svg" />
 
 </td>
 <td valign="top" width="33%">
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,firebase,npm" />
 
 </td>
 </tr>
+
 <tr>
 <td valign="top" width="33%">
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" />
 
 </td>
 <td valign="top" width="33%">
 
 **AI / ML**
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />
 
 </td>
 <td valign="top" width="33%">
 
-**Cloud**
+**Cloud / Deployment**
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel" />
+<img src="https://skillicons.dev/icons?i=aws,azure,netlify" />
 
 </td>
 </tr>
+
 <tr>
 <td valign="top" width="33%">
 
-**DevOps**
+**Mobile / Embedded**
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,nginx" />
-
-</td>
-<td valign="top" width="33%">
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=postman,figma,vscode,vim" />
+<img src="https://skillicons.dev/icons?i=androidstudio,arduino" />
 
 </td>
 <td valign="top" width="33%">
 
-**OS / Version Control**
+**Developer Tools**
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github" />
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,eclipse,gradle,maven,powershell,replit" />
+
+</td>
+<td valign="top" width="33%">
+
+**Version Control & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,linux,kali,gmail,linkedin,discord" />
 
 </td>
 </tr>
 </table>
-
-<br/>
 
 ---
 
@@ -111,26 +110,17 @@ My goal is simple: keep improving, keep creating, and build software that makes 
 
 <div align="center">
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
+<img src="https://streak-stats.demolab.com?user=itsyachiguys&theme=github-dark-blue&hide_border=true" width="70%" alt="GitHub Streak"/>
 
-<img src="https://github-stats-extended.vercel.app/api?username=itsyachiguys&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats — all-time commits"/>
-
-</td>
-<td align="center" width="50%">
-
-<img src="https://streak-stats.demolab.com?user=itsyachiguys&theme=github-dark-blue&hide_border=true" width="100%" alt="GitHub Streak — total contributions since account creation"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsyachiguys&theme=github-dark&hide_border=true" width="98%" alt="Contribution Activity Graph"/>
 
 </div>
+
+<br/>
+
+---
 
 <br/>
 
