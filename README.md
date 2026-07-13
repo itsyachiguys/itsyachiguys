@@ -3,7 +3,7 @@
 # Yachi Gajjar
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Learning+By+Building;Turning+ideas+into+experiences;From+algorithms+to+applications;One+project+at+a+time" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Learning+By+Building.;Turning+ideas+into+experiences.;From+algorithms+to+applications.;One+project+at+a+time." alt="Typing animation" />
 </a>
 
 </div>
